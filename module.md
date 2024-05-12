@@ -92,7 +92,7 @@ _Note: Add more rows as needed._
 
 This section should be filled out at the end of the Sprint and submitted.
 
-1. Put your GitHub link for your demonstration software here: 
+1. Put your GitHub link for your demonstration software here: https://github.com/ldslsg/W02 
 
 2. Put your YouTube link for your code walkthrough and demo video here:
 
@@ -100,11 +100,11 @@ This section should be filled out at the end of the Sprint and submitted.
 
 |Question                                                    |Response|
 |------------------------------------------------------------|--------|
-|Are the links above public and working?                     |        |
-|Did you complete all the unique requirements for the module?|        |
-|Did you write at least 100 lines of code?                   |        |
-|Did you fully complete the readme.md file?                  |        |
-|Did you put the readme.md file in GitHub in the top folder? |        |
+|Are the links above public and working?                     |Y       |
+|Did you complete all the unique requirements for the module?|Y       |
+|Did you write at least 100 lines of code?                   |N in the future I will add more.       |
+|Did you fully complete the readme.md file?                  |Y        |
+|Did you put the readme.md file in GitHub in the top folder? |Y  |
 
 4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
 

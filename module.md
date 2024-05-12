@@ -106,14 +106,14 @@ This section should be filled out at the end of the Sprint and submitted.
 |Did you fully complete the readme.md file?                  |Y        |
 |Did you put the readme.md file in GitHub in the top folder? |Y  |
 
-4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge.
+4. If you completed a Stretch Challenge (as shown in the Module Description document in Canvas) then describe what you did.  If you did the Choose Your Own Adventure module, then you get to decide what qualifies as a Stretch Challenge. I am going to make a website with Flask
 
-5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it.
+5. Did you change your selected module during the middle of the Sprint?  If yes, then describe what you changed it to, when you changed it, and why you changed it. Yes, I decieded to make a web scraper from Canvas extension I changed last Thursday, May 9th 2024. I needed more than 10 hours to make a canvas extension personally.
 
 6. Using the log above, fill in the total hours and minutes you spent on the individual module:
 
 |Activity         |Total Hours:Minutes|
 |-----------------|-------------------|
-|Individual Module|                   |
+|Individual Module|11 hours so far at least 2 hours more to go                   |
 
-7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint.
+7. What strategies (behavioral and technical) worked well during this Sprint?  What did not work well?  List some possible ways that you can improve next Sprint. Reviewing Python I learned a year and half ago. Making adjustments with a short amount of time and still need more work to get the full points did not work well. In the next Sprint, I will choose something simpler to make in the first place.

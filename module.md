@@ -85,6 +85,7 @@ Note that `IM` stands for Individual Module and `TP` stands for Team Project.
 |5/10      |1:00 pm   |IM      |Reviewed Data structure                     |1 hour       |
 |5/11      |1:00 am   |IM      |Learned and tested HTTPS status             |2 hours      |
 |5/11      |11:00 am  |IM      |Scraped some information from workremote.com|4 hours      |
+ 5/17       2:40 pm    IM       
 _Note: Add more rows as needed._
 
 
